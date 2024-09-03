@@ -1,5 +1,10 @@
 [
     {
+        "name": "Product 5",
+        "price": "79.99",
+        "image": "images/product3.png"
+    },
+    {
         "name": "Product 1",
         "price": "99.99",
         "image": "images/product1.png"
