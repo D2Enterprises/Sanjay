@@ -13,5 +13,10 @@
         "name": "Product 3",
         "price": "79.99",
         "image": "images/product3.png"
+    },
+    {
+        "name": "Product 4",
+        "price": "99.99",
+        "image": "images/product4.jpg"
     }
 ]
